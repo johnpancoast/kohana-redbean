@@ -1,6 +1,6 @@
 kohana-redbean
 ==============
-A __very__ basic integration of [Redbean](http://redbeanphp.com/) into [Kohana](http://kohanaframework.org/) v3.3..
+A __very__ basic integration of [Redbean](http://redbeanphp.com/) into [Kohana](http://kohanaframework.org/) v3.3.
 
 Install
 -------
